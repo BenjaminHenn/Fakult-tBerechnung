@@ -12,6 +12,8 @@ public class BerechnungRekursiv {
         else
         {
               // Abbruchbedingung der Rekursion
+            //bla
+            //bla
               return 1;
         }
     }
